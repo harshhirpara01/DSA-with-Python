@@ -14,3 +14,4 @@ print(j)
 
 
 print(dict)
+print(nums)
